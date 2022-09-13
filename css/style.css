@@ -1,0 +1,18 @@
+/* body style*/
+body{
+    background-image: url(../image/b.svg);
+    background-size:  40%;
+    background-repeat: no-repeat;
+    background-position-x: 110%;
+    background-position-y: 400%;
+}
+.header-nav{
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-around;
+}
+.header-nav a{
+    text-decoration: none;
+    color: #212832;
+    font-family: iran-regular;
+}

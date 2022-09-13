@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "anjoman-bold";
+    src: url("../font/Anjoman-Bold.woff2");
+    src: url("../font/Anjoman-Bold.woff") format("woff");
+ }
+@font-face {
+    font-family: "anjoman-bold";
+    src: url("../font/Anjoman-Bold.woff2");
+    src: url("../font/Anjoman-Bold.woff") format("woff");
+ }
+@font-face {
+    font-family: "anjoman-regular";
+    src: url("../font/Anjoman-Regular.woff2");
+    src: url("../font/Anjoman-Regular.woff") format("woff");
+ }
+@font-face {
+    font-family: "dana-bold";
+    src: url("../font/dana-fanum-bold.woff2");
+    src: url("../font/dana-fanum-bold.woff") format("woff");
+ }
+@font-face {
+    font-family: "dana-regular";
+    src: url("../font/dana-fanum-regular.woff2");
+    src: url("../font/dana-fanum-regular.woff") format("woff");
+ }
+@font-face {
+    font-family: "iran-bold";
+    src: url("../font/IRANSansWeb\(FaNum\)_Bold.woff2");
+    src: url("../font/IRANSansWeb\(FaNum\)_Bold.woff") format("woff");
+ }
+@font-face {
+    font-family: "iran-regular";
+    src: url("../font/IRANSansWeb\(FaNum\).woff2");
+    src: url("../font/IRANSansWeb\(FaNum\).woff") format("woff");
+ }
+ *{
+    font-family: iran-regular;
+    line-height: 26px;
+ }
